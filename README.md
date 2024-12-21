@@ -6,7 +6,7 @@ You know **Br0t0s**? 🏺 [βροτός] 🏺
 New in this world old in world, temponary residence from [Apulia, Italy](https://www.google.com/maps/d/embed?mid=1Ql7xzFIRaLVERdYWEGcBl0RCV8Q&msa=0&ie=UTF8&t=m&ll=40.388397000000005%2C17.061768000000015&spn=3.765391%2C6.16333&z=7&output=embed) 🇮🇹🤌. Are you **sure** you want to continue? 🕸 **𝕴𝖙'𝖘 𝖓𝖔𝖙 𝖞𝖔𝖚𝖗 𝖕𝖆𝖗𝖆𝖉𝖎𝖘𝖊.** 🎠
 
 - 🐍 I have some works with C++, Python, Java.
-- I use Atom :atom: and push my code to GitHub :octocat:, also I use Fedora.
+- I use Atom :atom: and push my code to GitHub :octocat:, also I use MacOS.
 - 🌵 Contact me if you want know Nirvana!
 - 🎟 Brainstorm with me over tech, algorithms, music, art. 
 - 📫 How to reach me: `@`
@@ -25,9 +25,7 @@ Shortcut    ∞ hrs ∞  mins   ████████████████
 <summary><b>🦄 My Latest Posts</b></summary>
 <br>
 
-- 🎵 [Playlist](https://soundcloud.com)
-🤡 It's not your top 50 Spotify playlist 🤮
-- ⚫ [Notion](https://www.notion.so)
+- ⚫ [Obsidian]([https://www.notion.so](https://obsidian.md/])
 Organise everithing in your anything
 - 📍 [Comng soon](https://kaanf.com/blog/Bolum-2-Kullanici-Ihtiyaclarini-Anlamak)
 Coming soon..
