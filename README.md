@@ -25,7 +25,7 @@ Shortcut    ∞ hrs ∞  mins   ████████████████
 <summary><b>🦄 My Latest Posts</b></summary>
 <br>
 
-- ⚫ [Obsidian]([https://www.notion.so](https://obsidian.md/])
+- ⚫ [Obsidian]([https://obsidian.md/])
 Organise everithing in your anything
 - 📍 [Comng soon](https://kaanf.com/blog/Bolum-2-Kullanici-Ihtiyaclarini-Anlamak)
 Coming soon..
