@@ -13,16 +13,12 @@ New in this world old in world, temponary residence from [Apulia, Italy](https:/
 
 :pencil: **Setup development breakdown**
 ```text
-Netflix     ∞ hrs ∞  mins   ████████████████████████░   99.00 % 
-Python      0 hrs 00 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Bash        0 hrs 00 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Javascript  0 hr  00 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Java        0 hr  00 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Markdown    0 hr  00 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cinema      0 hrs 00 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Art         0 hrs 00 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Workflow    0 hrs 00 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Shortcut    0 hrs 00 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown    ∞ hrs ∞  mins   ████████████████████████░   99.00 % 
+Cinema      ∞ hrs ∞  mins   ████████████████████████░   99.00 % 
+Art         ∞ hrs ∞  mins   ████████████████████████░   99.00 % 
+Workflow    ∞ hrs ∞  mins   ████████████████████████░   99.00 % 
+Shortcut    ∞ hrs ∞  mins   ████████████████████████░   99.00 % 
 ```
 <details>
   
